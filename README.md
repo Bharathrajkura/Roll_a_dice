@@ -1,0 +1,1 @@
+The Roll a Dice Game is a simple yet fun game where players roll a virtual dice and get a random outcome between 1 and 6. It is built using HTML, CSS, and JavaScript. The game is interactive and provides instant results with smooth animations.
